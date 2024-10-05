@@ -22,7 +22,7 @@ Key Features:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/TaskMaster.git
+    git clone https://github.com/SuRaJ02kaiser/TaskMaster.git
     ```
    
 2. **Navigate to the project directory**:
